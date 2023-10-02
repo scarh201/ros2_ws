@@ -1,0 +1,21 @@
+[0.057s] Invoking command in '/home/user/ros2_ws/build/turtlebot3_description': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/turtlebot3/turtlebot3_description -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/turtlebot3_description
+[0.127s] CMake Error at CMakeLists.txt:18 (find_package):
+[0.128s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[0.128s]   has asked CMake to find a package configuration file provided by
+[0.128s]   "ament_cmake", but CMake did not find one.
+[0.129s] 
+[0.129s]   Could not find a package configuration file provided by "ament_cmake" with
+[0.129s]   any of the following names:
+[0.129s] 
+[0.130s]     ament_cmakeConfig.cmake
+[0.130s]     ament_cmake-config.cmake
+[0.130s] 
+[0.130s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[0.130s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[0.131s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[0.131s]   has been installed.
+[0.131s] 
+[0.132s] 
+[0.132s] -- Configuring incomplete, errors occurred!
+[0.132s] See also "/home/user/ros2_ws/build/turtlebot3_description/CMakeFiles/CMakeOutput.log".
+[0.777s] Invoked command in '/home/user/ros2_ws/build/turtlebot3_description' returned '1': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/turtlebot3/turtlebot3_description -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/turtlebot3_description

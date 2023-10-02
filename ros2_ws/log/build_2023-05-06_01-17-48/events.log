@@ -1,0 +1,115 @@
+[0.000000] (-) TimerEvent: {}
+[0.000264] (-) JobUnselected: {'identifier': 'turtlebot3'}
+[0.001364] (-) JobUnselected: {'identifier': 'turtlebot3_bringup'}
+[0.102387] (-) TimerEvent: {}
+[0.103007] (-) JobUnselected: {'identifier': 'turtlebot3_description'}
+[0.103083] (-) JobUnselected: {'identifier': 'turtlebot3_example'}
+[0.103145] (-) JobUnselected: {'identifier': 'turtlebot3_msgs'}
+[0.103199] (-) JobUnselected: {'identifier': 'turtlebot3_navigation2'}
+[0.103250] (-) JobUnselected: {'identifier': 'turtlebot3_teleop'}
+[0.103305] (project_mapping) JobQueued: {'identifier': 'project_mapping', 'dependencies': OrderedDict()}
+[0.103363] (project_mapping) JobStarted: {'identifier': 'project_mapping'}
+[0.202552] (-) TimerEvent: {}
+[0.307446] (-) TimerEvent: {}
+[0.408725] (-) TimerEvent: {}
+[0.509663] (-) TimerEvent: {}
+[0.612614] (-) TimerEvent: {}
+[0.713556] (-) TimerEvent: {}
+[0.813947] (-) TimerEvent: {}
+[0.921732] (-) TimerEvent: {}
+[1.022219] (-) TimerEvent: {}
+[1.123298] (-) TimerEvent: {}
+[1.223731] (-) TimerEvent: {}
+[1.397227] (-) TimerEvent: {}
+[1.497732] (-) TimerEvent: {}
+[1.598647] (-) TimerEvent: {}
+[1.699783] (-) TimerEvent: {}
+[1.802207] (-) TimerEvent: {}
+[1.902578] (-) TimerEvent: {}
+[2.003036] (-) TimerEvent: {}
+[2.103556] (-) TimerEvent: {}
+[2.204678] (-) TimerEvent: {}
+[2.305738] (-) TimerEvent: {}
+[2.406390] (-) TimerEvent: {}
+[2.507904] (-) TimerEvent: {}
+[2.611234] (-) TimerEvent: {}
+[2.713067] (-) TimerEvent: {}
+[2.813768] (-) TimerEvent: {}
+[2.914438] (-) TimerEvent: {}
+[3.015077] (-) TimerEvent: {}
+[3.115444] (-) TimerEvent: {}
+[3.297370] (-) TimerEvent: {}
+[3.398138] (-) TimerEvent: {}
+[3.499231] (-) TimerEvent: {}
+[3.525337] (project_mapping) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/project_mapping', 'build', '--build-base', '/home/user/ros2_ws/build/project_mapping/build', 'install', '--prefix', '/home/user/ros2_ws/install/project_mapping', '--record', '/home/user/ros2_ws/build/project_mapping/install.log', '--single-version-externally-managed'], 'cwd': '/home/user/ros2_ws/src/project_mapping', 'env': {'ROS_VERSION': '2', 'NVIDIA_VISIBLE_DEVICES': 'all', 'GAZEBO_MASTER_URI': 'http://3_xterm:11345', 'ROS_PYTHON_VERSION': '3', 'HOSTNAME': '3_xterm', 'NVIDIA_REQUIRE_CUDA': 'cuda>=11.1 brand=tesla,driver>=418,driver<419 brand=tesla,driver>=440,driver<441 brand=tesla,driver>=450,driver<451', 'NCCL_VERSION': '2.7.8', 'PWD': '/home/user/ros2_ws/build/project_mapping', 'PORT': '4000', 'NVIDIA_DRIVER_CAPABILITIES': 'all', 'ROS_IP': '', 'HOME': '/home/user', 'GAZEBO_PLUGIN_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'GAZEBO_MODEL_DATABASE_URI': 'http://models.gazebosim.org', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'CUDA_VERSION': '11.1.1', 'AMENT_PREFIX_PATH': '/home/simulations/ros2_sims_ws/install/ros1_bridge:/home/user/ros2_ws/install/turtlebot3:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_navigation2:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/turtlebot3_msgs:/home/user/ros2_ws/install/turtlebot3_bringup:/home/user/ros2_ws/install/turtlebot3_description:/home/user/ros2_ws/install/my_package:/opt/ros/foxy', 'CMAKE_PREFIX_PATH': '/home/simulations/ros2_sims_ws/install/ros1_bridge:/home/user/ros2_ws/install/turtlebot3:/home/user/ros2_ws/install/turtlebot3_navigation2:/home/user/ros2_ws/install/turtlebot3_msgs:/home/user/ros2_ws/install/turtlebot3_bringup:/home/user/ros2_ws/install/turtlebot3_description', 'GAZEBO_RESOURCE_PATH': '/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo', 'COLCON_PREFIX_PATH': '/home/user/ros2_ws/install:/home/simulations/ros2_sims_ws/install', 'GAZEBO_MASTER_PORT': '11345', 'NVM_DIR': '/usr/local/share/shell/.nvm', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PYTHONPATH': '/home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages:/home/simulations/ros2_sims_ws/install/ros1_bridge/lib/python3.8/site-packages:/home/user/ros2_ws/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/user/ros2_ws/install/turtlebot3_example/lib/python3.8/site-packages:/home/user/ros2_ws/install/turtlebot3_msgs/lib/python3.8/site-packages:/home/user/ros2_ws/install/my_package/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1', 'TERM': 'xterm-color', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'SNAPCRAFT_BUILD_ENVIRONMENT': 'host', 'GAZEBO_MASTER_HOSTNAME': '3_xterm', 'LIBRARY_PATH': '/usr/local/cuda/lib64/stubs', 'DISPLAY': ':1', 'SHLVL': '2', 'NVM_CD_FLAGS': '', 'ROS_MASTER_URI': 'http://3_xterm:11311', 'ROS_HOSTNAME': '3_xterm', 'LD_LIBRARY_PATH': '/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib:/home/simulations/ros2_sims_ws/install/ros1_bridge/lib:/home/user/ros2_ws/install/turtlebot3_msgs/lib:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib:/usr/local/nvidia/lib:/usr/local/nvidia/lib64:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins', 'ROS_LOCALHOST_ONLY': '0', 'SLOT_SHELL_START_ID': '667920', 'SLOT_PREFIX': '3089befb-7a6a-4afe-a0fc-195b65e34a2f', 'LC_ALL': 'C', 'SOURCE_ROS1_WS': '', 'GAZEBO_MODEL_PATH': '/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-9/models:/usr/share/gazebo/models_robox', 'SLOT_JENKINS_PORT': '25531', 'SLOT_SYSTEMD': 'False', 'PATH': '/opt/ros/foxy/bin:/usr/local/share/shell/.nvm/versions/node/v6.11.2/bin:/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'SELECTED_ROS_DISTRO': 'foxy', 'NVM_BIN': '/usr/local/share/shell/.nvm/versions/node/v6.11.2/bin', 'NODE_VERSION': 'v6.11.2', 'DEBIAN_FRONTEND': 'noninteractive', 'ROS_DISTRO': 'foxy', 'OGRE_RESOURCE_PATH': '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0', 'OLDPWD': '/home/user/ros2_ws', 'SOURCE_ROS2_WS': 'True', 'SLOT_ROSBRIDGE_PORT': '20003', '_': '/usr/bin/env'}, 'shell': False}
+[3.599405] (-) TimerEvent: {}
+[3.711052] (-) TimerEvent: {}
+[3.811458] (-) TimerEvent: {}
+[3.914787] (-) TimerEvent: {}
+[4.015180] (-) TimerEvent: {}
+[4.115564] (-) TimerEvent: {}
+[4.216278] (-) TimerEvent: {}
+[4.316681] (-) TimerEvent: {}
+[4.417420] (-) TimerEvent: {}
+[4.517909] (-) TimerEvent: {}
+[4.618292] (-) TimerEvent: {}
+[4.724835] (-) TimerEvent: {}
+[4.826312] (-) TimerEvent: {}
+[4.997439] (-) TimerEvent: {}
+[5.098243] (-) TimerEvent: {}
+[5.198714] (-) TimerEvent: {}
+[5.299174] (-) TimerEvent: {}
+[5.399617] (-) TimerEvent: {}
+[5.500270] (-) TimerEvent: {}
+[5.601178] (-) TimerEvent: {}
+[5.701582] (-) TimerEvent: {}
+[5.802888] (-) TimerEvent: {}
+[5.904168] (-) TimerEvent: {}
+[5.923381] (project_mapping) StdoutLine: {'line': b'running egg_info\n'}
+[5.924168] (project_mapping) StdoutLine: {'line': b'creating ../../build/project_mapping/project_mapping.egg-info\n'}
+[5.924495] (project_mapping) StdoutLine: {'line': b'writing ../../build/project_mapping/project_mapping.egg-info/PKG-INFO\n'}
+[5.925025] (project_mapping) StdoutLine: {'line': b'writing dependency_links to ../../build/project_mapping/project_mapping.egg-info/dependency_links.txt\n'}
+[5.925349] (project_mapping) StdoutLine: {'line': b'writing entry points to ../../build/project_mapping/project_mapping.egg-info/entry_points.txt\n'}
+[5.925611] (project_mapping) StdoutLine: {'line': b'writing requirements to ../../build/project_mapping/project_mapping.egg-info/requires.txt\n'}
+[5.925870] (project_mapping) StdoutLine: {'line': b'writing top-level names to ../../build/project_mapping/project_mapping.egg-info/top_level.txt\n'}
+[5.940519] (project_mapping) StdoutLine: {'line': b"writing manifest file '../../build/project_mapping/project_mapping.egg-info/SOURCES.txt'\n"}
+[6.004323] (-) TimerEvent: {}
+[6.104752] (-) TimerEvent: {}
+[6.198758] (project_mapping) StdoutLine: {'line': b"reading manifest file '../../build/project_mapping/project_mapping.egg-info/SOURCES.txt'\n"}
+[6.202558] (project_mapping) StdoutLine: {'line': b"writing manifest file '../../build/project_mapping/project_mapping.egg-info/SOURCES.txt'\n"}
+[6.202856] (project_mapping) StdoutLine: {'line': b'running build\n'}
+[6.203041] (project_mapping) StdoutLine: {'line': b'running build_py\n'}
+[6.203878] (project_mapping) StdoutLine: {'line': b'creating /home/user/ros2_ws/build/project_mapping/build\n'}
+[6.204272] (project_mapping) StdoutLine: {'line': b'creating /home/user/ros2_ws/build/project_mapping/build/lib\n'}
+[6.204834] (-) TimerEvent: {}
+[6.205933] (project_mapping) StdoutLine: {'line': b'creating /home/user/ros2_ws/build/project_mapping/build/lib/project_mapping\n'}
+[6.206436] (project_mapping) StdoutLine: {'line': b'copying project_mapping/__init__.py -> /home/user/ros2_ws/build/project_mapping/build/lib/project_mapping\n'}
+[6.206631] (project_mapping) StdoutLine: {'line': b'running install\n'}
+[6.207646] (project_mapping) StdoutLine: {'line': b'running install_lib\n'}
+[6.299849] (project_mapping) StdoutLine: {'line': b'creating /home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages/project_mapping\n'}
+[6.300241] (project_mapping) StdoutLine: {'line': b'copying /home/user/ros2_ws/build/project_mapping/build/lib/project_mapping/__init__.py -> /home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages/project_mapping\n'}
+[6.301668] (project_mapping) StdoutLine: {'line': b'byte-compiling /home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages/project_mapping/__init__.py to __init__.cpython-38.pyc\n'}
+[6.302094] (project_mapping) StdoutLine: {'line': b'running install_data\n'}
+[6.304627] (project_mapping) StdoutLine: {'line': b'creating /home/user/ros2_ws/install/project_mapping/share/project_mapping/launch\n'}
+[6.305163] (-) TimerEvent: {}
+[6.306468] (project_mapping) StdoutLine: {'line': b'copying launch/cartographer.launch.py -> /home/user/ros2_ws/install/project_mapping/share/project_mapping/launch\n'}
+[6.306781] (project_mapping) StdoutLine: {'line': b'creating /home/user/ros2_ws/install/project_mapping/share/project_mapping/config\n'}
+[6.306977] (project_mapping) StdoutLine: {'line': b'copying config/cartographer.lua -> /home/user/ros2_ws/install/project_mapping/share/project_mapping/config\n'}
+[6.307437] (project_mapping) StdoutLine: {'line': b'running install_egg_info\n'}
+[6.397364] (project_mapping) StdoutLine: {'line': b'Copying ../../build/project_mapping/project_mapping.egg-info to /home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages/project_mapping-0.0.0-py3.8.egg-info\n'}
+[6.400016] (project_mapping) StdoutLine: {'line': b'running install_scripts\n'}
+[6.405250] (-) TimerEvent: {}
+[6.506879] (-) TimerEvent: {}
+[6.611922] (-) TimerEvent: {}
+[6.716543] (-) TimerEvent: {}
+[6.723668] (project_mapping) StdoutLine: {'line': b'Installing cartographer_node script to /home/user/ros2_ws/install/project_mapping/lib/project_mapping\n'}
+[6.724717] (project_mapping) StdoutLine: {'line': b'Installing occupancy_grid_node script to /home/user/ros2_ws/install/project_mapping/lib/project_mapping\n'}
+[6.726304] (project_mapping) StdoutLine: {'line': b"writing list of installed files to '/home/user/ros2_ws/build/project_mapping/install.log'\n"}
+[6.817173] (-) TimerEvent: {}
+[6.918248] (-) TimerEvent: {}
+[6.999985] (project_mapping) CommandEnded: {'returncode': 0}
+[7.018366] (-) TimerEvent: {}
+[7.118835] (-) TimerEvent: {}
+[7.218146] (project_mapping) JobEnded: {'identifier': 'project_mapping', 'rc': 0}
+[7.218985] (-) TimerEvent: {}
+[7.219704] (-) EventReactorShutdown: {}

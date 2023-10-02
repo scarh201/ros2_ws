@@ -1,0 +1,11 @@
+[3.095s] Invoking command in '/home/user/ros2_ws/src/project_mapping': PYTHONPATH=/home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_mapping build --build-base /home/user/ros2_ws/build/project_mapping/build install --prefix /home/user/ros2_ws/install/project_mapping --record /home/user/ros2_ws/build/project_mapping/install.log --single-version-externally-managed
+[6.099s] running egg_info
+[6.100s] creating ../../build/project_mapping/cartographer_slam.egg-info
+[6.106s] writing ../../build/project_mapping/cartographer_slam.egg-info/PKG-INFO
+[6.106s] writing dependency_links to ../../build/project_mapping/cartographer_slam.egg-info/dependency_links.txt
+[6.107s] writing entry points to ../../build/project_mapping/cartographer_slam.egg-info/entry_points.txt
+[6.107s] writing requirements to ../../build/project_mapping/cartographer_slam.egg-info/requires.txt
+[6.107s] writing top-level names to ../../build/project_mapping/cartographer_slam.egg-info/top_level.txt
+[6.392s] writing manifest file '../../build/project_mapping/cartographer_slam.egg-info/SOURCES.txt'
+[6.897s] error: package directory 'cartographer_slam' does not exist
+[7.001s] Invoked command in '/home/user/ros2_ws/src/project_mapping' returned '1': PYTHONPATH=/home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_mapping build --build-base /home/user/ros2_ws/build/project_mapping/build install --prefix /home/user/ros2_ws/install/project_mapping --record /home/user/ros2_ws/build/project_mapping/install.log --single-version-externally-managed

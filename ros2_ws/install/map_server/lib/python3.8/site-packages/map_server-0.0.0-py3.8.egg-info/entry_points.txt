@@ -1,0 +1,4 @@
+[console_scripts]
+lifecycle_manager = nav2_lifecycle_manager.lifecycle_manager:main
+map_server = nav2_map_server.map_server:main
+

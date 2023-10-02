@@ -1,0 +1,50 @@
+[0.028s] Invoking command in '/home/user/ros2_ws/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/user/ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/ros2_ws/install/turtlebot3_description:/opt/ros/foxy:${CMAKE_PREFIX_PATH} _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/turtlebot3/turtlebot3_bringup -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/turtlebot3_bringup
+[0.143s] -- The C compiler identification is GNU 9.3.0
+[0.239s] -- The CXX compiler identification is GNU 9.3.0
+[0.250s] -- Check for working C compiler: /usr/bin/cc
+[0.382s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.384s] -- Detecting C compiler ABI info
+[0.521s] -- Detecting C compiler ABI info - done
+[0.544s] -- Detecting C compile features
+[0.544s] -- Detecting C compile features - done
+[0.548s] -- Check for working CXX compiler: /usr/bin/c++
+[0.688s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.690s] -- Detecting CXX compiler ABI info
+[0.867s] -- Detecting CXX compiler ABI info - done
+[0.888s] -- Detecting CXX compile features
+[0.889s] -- Detecting CXX compile features - done
+[0.895s] -- Found ament_cmake: 0.9.7 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.946s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.5", minimum required is "3") 
+[0.946s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.630s] -- Configuring done
+[1.636s] -- Generating done
+[1.637s] -- Build files have been written to: /home/user/ros2_ws/build/turtlebot3_bringup
+[1.644s] Invoked command in '/home/user/ros2_ws/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/user/ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/ros2_ws/install/turtlebot3_description:/opt/ros/foxy:${CMAKE_PREFIX_PATH} _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/turtlebot3/turtlebot3_bringup -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/turtlebot3_bringup
+[1.656s] Invoking command in '/home/user/ros2_ws/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/user/ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/ros2_ws/install/turtlebot3_description:/opt/ros/foxy:${CMAKE_PREFIX_PATH} _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/turtlebot3_bringup -- -j36 -l36
+[1.746s] Invoked command in '/home/user/ros2_ws/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/user/ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/ros2_ws/install/turtlebot3_description:/opt/ros/foxy:${CMAKE_PREFIX_PATH} _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/turtlebot3_bringup -- -j36 -l36
+[1.811s] Invoking command in '/home/user/ros2_ws/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/user/ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/ros2_ws/install/turtlebot3_description:/opt/ros/foxy:${CMAKE_PREFIX_PATH} _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/turtlebot3_bringup
+[1.828s] -- Install configuration: ""
+[1.828s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch
+[1.828s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/rviz2.launch.py
+[1.829s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_state_publisher.launch.py
+[1.829s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/robot.launch.py
+[1.829s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param
+[1.829s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/burger.yaml
+[1.830s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/waffle.yaml
+[1.830s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/waffle_pi.yaml
+[1.830s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/ament_index/resource_index/package_run_dependencies/turtlebot3_bringup
+[1.830s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/ament_index/resource_index/parent_prefix_path/turtlebot3_bringup
+[1.831s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/ament_prefix_path.sh
+[1.831s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/ament_prefix_path.dsv
+[1.831s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/path.sh
+[1.831s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/path.dsv
+[1.831s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.bash
+[1.832s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.sh
+[1.832s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.zsh
+[1.832s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.dsv
+[1.833s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/package.dsv
+[1.833s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/ament_index/resource_index/packages/turtlebot3_bringup
+[1.833s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake
+[1.833s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake
+[1.834s] -- Installing: /home/user/ros2_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/package.xml
+[1.839s] Invoked command in '/home/user/ros2_ws/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/user/ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/user/ros2_ws/install/turtlebot3_description:/opt/ros/foxy:${CMAKE_PREFIX_PATH} _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/turtlebot3_bringup

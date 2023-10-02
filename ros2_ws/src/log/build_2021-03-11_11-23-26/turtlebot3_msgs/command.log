@@ -1,0 +1,2 @@
+Invoking command in '/home/user/ros2_ws/src/build/turtlebot3_msgs': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/src/install/turtlebot3_msgs
+Invoked command in '/home/user/ros2_ws/src/build/turtlebot3_msgs' returned '1': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/src/install/turtlebot3_msgs

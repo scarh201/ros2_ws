@@ -1,0 +1,22 @@
+[16.528s] Invoking command in '/home/user/ros2_ws/src/map_server': PYTHONPATH=/home/user/ros2_ws/install/map_server/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/map_server build --build-base /home/user/ros2_ws/build/map_server/build install --prefix /home/user/ros2_ws/install/map_server --record /home/user/ros2_ws/build/map_server/install.log --single-version-externally-managed
+[22.418s] running egg_info
+[22.419s] writing ../../build/map_server/map_server.egg-info/PKG-INFO
+[22.425s] writing dependency_links to ../../build/map_server/map_server.egg-info/dependency_links.txt
+[22.425s] writing entry points to ../../build/map_server/map_server.egg-info/entry_points.txt
+[22.426s] writing requirements to ../../build/map_server/map_server.egg-info/requires.txt
+[22.426s] writing top-level names to ../../build/map_server/map_server.egg-info/top_level.txt
+[22.672s] reading manifest file '../../build/map_server/map_server.egg-info/SOURCES.txt'
+[22.864s] writing manifest file '../../build/map_server/map_server.egg-info/SOURCES.txt'
+[22.935s] running build
+[22.936s] running build_py
+[22.936s] running install
+[22.936s] running install_lib
+[22.936s] running install_data
+[22.936s] running install_egg_info
+[22.937s] removing '/home/user/ros2_ws/install/map_server/lib/python3.8/site-packages/map_server-0.0.0-py3.8.egg-info' (and everything under it)
+[22.937s] Copying ../../build/map_server/map_server.egg-info to /home/user/ros2_ws/install/map_server/lib/python3.8/site-packages/map_server-0.0.0-py3.8.egg-info
+[22.938s] running install_scripts
+[22.989s] Installing lifecycle_manager script to /home/user/ros2_ws/install/map_server/lib/map_server
+[22.990s] Installing map_server script to /home/user/ros2_ws/install/map_server/lib/map_server
+[22.990s] writing list of installed files to '/home/user/ros2_ws/build/map_server/install.log'
+[23.181s] Invoked command in '/home/user/ros2_ws/src/map_server' returned '0': PYTHONPATH=/home/user/ros2_ws/install/map_server/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/map_server build --build-base /home/user/ros2_ws/build/map_server/build install --prefix /home/user/ros2_ws/install/map_server --record /home/user/ros2_ws/build/map_server/install.log --single-version-externally-managed

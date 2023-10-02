@@ -1,0 +1,21 @@
+[2.213s] Invoking command in '/home/user/ros2_ws/src/project_path_planning': PYTHONPATH=/home/user/ros2_ws/install/project_path_planning/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_path_planning build --build-base /home/user/ros2_ws/build/project_path_planning/build install --prefix /home/user/ros2_ws/install/project_path_planning --record /home/user/ros2_ws/build/project_path_planning/install.log --single-version-externally-managed
+[4.926s] running egg_info
+[4.928s] writing ../../build/project_path_planning/project_path_planning.egg-info/PKG-INFO
+[4.929s] writing dependency_links to ../../build/project_path_planning/project_path_planning.egg-info/dependency_links.txt
+[4.930s] writing entry points to ../../build/project_path_planning/project_path_planning.egg-info/entry_points.txt
+[4.931s] writing requirements to ../../build/project_path_planning/project_path_planning.egg-info/requires.txt
+[4.931s] writing top-level names to ../../build/project_path_planning/project_path_planning.egg-info/top_level.txt
+[5.130s] reading manifest file '../../build/project_path_planning/project_path_planning.egg-info/SOURCES.txt'
+[5.132s] writing manifest file '../../build/project_path_planning/project_path_planning.egg-info/SOURCES.txt'
+[5.132s] running build
+[5.132s] running build_py
+[5.133s] running install
+[5.195s] running install_lib
+[5.199s] running install_data
+[5.202s] running install_egg_info
+[5.207s] removing '/home/user/ros2_ws/install/project_path_planning/lib/python3.8/site-packages/project_path_planning-0.0.0-py3.8.egg-info' (and everything under it)
+[5.209s] Copying ../../build/project_path_planning/project_path_planning.egg-info to /home/user/ros2_ws/install/project_path_planning/lib/python3.8/site-packages/project_path_planning-0.0.0-py3.8.egg-info
+[5.210s] running install_scripts
+[5.308s] Installing nav_to_pose_action_client script to /home/user/ros2_ws/install/project_path_planning/lib/project_path_planning
+[5.309s] writing list of installed files to '/home/user/ros2_ws/build/project_path_planning/install.log'
+[5.411s] Invoked command in '/home/user/ros2_ws/src/project_path_planning' returned '0': PYTHONPATH=/home/user/ros2_ws/install/project_path_planning/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_path_planning build --build-base /home/user/ros2_ws/build/project_path_planning/build install --prefix /home/user/ros2_ws/install/project_path_planning --record /home/user/ros2_ws/build/project_path_planning/install.log --single-version-externally-managed

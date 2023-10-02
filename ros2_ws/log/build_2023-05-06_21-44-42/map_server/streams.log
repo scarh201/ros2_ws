@@ -1,0 +1,24 @@
+[10.483s] Invoking command in '/home/user/ros2_ws/src/map_server': PYTHONPATH=/home/user/ros2_ws/install/map_server/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/map_server build --build-base /home/user/ros2_ws/build/map_server/build install --prefix /home/user/ros2_ws/install/map_server --record /home/user/ros2_ws/build/map_server/install.log --single-version-externally-managed
+[14.384s] running egg_info
+[14.386s] writing ../../build/map_server/map_server.egg-info/PKG-INFO
+[14.389s] writing dependency_links to ../../build/map_server/map_server.egg-info/dependency_links.txt
+[14.391s] writing entry points to ../../build/map_server/map_server.egg-info/entry_points.txt
+[14.391s] writing requirements to ../../build/map_server/map_server.egg-info/requires.txt
+[14.391s] writing top-level names to ../../build/map_server/map_server.egg-info/top_level.txt
+[15.306s] reading manifest file '../../build/map_server/map_server.egg-info/SOURCES.txt'
+[15.378s] writing manifest file '../../build/map_server/map_server.egg-info/SOURCES.txt'
+[15.378s] running build
+[15.378s] running build_py
+[15.378s] running install
+[15.385s] running install_lib
+[15.389s] running install_data
+[15.396s] copying config/turtlebot_area.yaml -> /home/user/ros2_ws/install/map_server/share/map_server/config
+[15.396s] copying config/turtlebot_area.pgm -> /home/user/ros2_ws/install/map_server/share/map_server/config
+[15.396s] running install_egg_info
+[15.409s] removing '/home/user/ros2_ws/install/map_server/lib/python3.8/site-packages/map_server-0.0.0-py3.8.egg-info' (and everything under it)
+[15.410s] Copying ../../build/map_server/map_server.egg-info to /home/user/ros2_ws/install/map_server/lib/python3.8/site-packages/map_server-0.0.0-py3.8.egg-info
+[15.412s] running install_scripts
+[15.582s] Installing lifecycle_manager script to /home/user/ros2_ws/install/map_server/lib/map_server
+[15.583s] Installing map_server script to /home/user/ros2_ws/install/map_server/lib/map_server
+[15.584s] writing list of installed files to '/home/user/ros2_ws/build/map_server/install.log'
+[15.696s] Invoked command in '/home/user/ros2_ws/src/map_server' returned '0': PYTHONPATH=/home/user/ros2_ws/install/map_server/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/map_server build --build-base /home/user/ros2_ws/build/map_server/build install --prefix /home/user/ros2_ws/install/map_server --record /home/user/ros2_ws/build/map_server/install.log --single-version-externally-managed

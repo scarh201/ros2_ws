@@ -1,0 +1,24 @@
+[2.896s] Invoking command in '/home/user/ros2_ws/src/project_mapping': PYTHONPATH=/home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_mapping build --build-base /home/user/ros2_ws/build/project_mapping/build install --prefix /home/user/ros2_ws/install/project_mapping --record /home/user/ros2_ws/build/project_mapping/install.log --single-version-externally-managed
+[5.692s] running egg_info
+[5.693s] writing ../../build/project_mapping/project_mapping.egg-info/PKG-INFO
+[5.694s] writing dependency_links to ../../build/project_mapping/project_mapping.egg-info/dependency_links.txt
+[5.694s] writing entry points to ../../build/project_mapping/project_mapping.egg-info/entry_points.txt
+[5.695s] writing requirements to ../../build/project_mapping/project_mapping.egg-info/requires.txt
+[5.695s] writing top-level names to ../../build/project_mapping/project_mapping.egg-info/top_level.txt
+[5.896s] reading manifest file '../../build/project_mapping/project_mapping.egg-info/SOURCES.txt'
+[5.897s] writing manifest file '../../build/project_mapping/project_mapping.egg-info/SOURCES.txt'
+[5.898s] running build
+[5.898s] running build_py
+[5.898s] running install
+[5.900s] running install_lib
+[5.902s] running install_data
+[5.903s] copying launch/cartographer.launch.py -> /home/user/ros2_ws/install/project_mapping/share/project_mapping/launch
+[5.903s] copying config/cartographer.lua -> /home/user/ros2_ws/install/project_mapping/share/project_mapping/config
+[5.903s] running install_egg_info
+[5.906s] removing '/home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages/project_mapping-0.0.0-py3.8.egg-info' (and everything under it)
+[5.907s] Copying ../../build/project_mapping/project_mapping.egg-info to /home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages/project_mapping-0.0.0-py3.8.egg-info
+[5.987s] running install_scripts
+[6.110s] Installing cartographer_node script to /home/user/ros2_ws/install/project_mapping/lib/project_mapping
+[6.187s] Installing occupancy_grid_node script to /home/user/ros2_ws/install/project_mapping/lib/project_mapping
+[6.190s] writing list of installed files to '/home/user/ros2_ws/build/project_mapping/install.log'
+[6.388s] Invoked command in '/home/user/ros2_ws/src/project_mapping' returned '0': PYTHONPATH=/home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_mapping build --build-base /home/user/ros2_ws/build/project_mapping/build install --prefix /home/user/ros2_ws/install/project_mapping --record /home/user/ros2_ws/build/project_mapping/install.log --single-version-externally-managed

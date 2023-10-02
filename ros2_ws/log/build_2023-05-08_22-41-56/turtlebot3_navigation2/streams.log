@@ -1,0 +1,31 @@
+[0.819s] Invoking command in '/home/user/ros2_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_path_planning:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/map_server:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/turtlebot3_navigation2 -- -j8 -l8
+[15.422s] Invoked command in '/home/user/ros2_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_path_planning:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/map_server:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/turtlebot3_navigation2 -- -j8 -l8
+[16.718s] Invoking command in '/home/user/ros2_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_path_planning:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/map_server:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/turtlebot3_navigation2
+[17.003s] -- Install configuration: ""
+[17.007s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch
+[17.007s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[17.007s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map
+[17.008s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/turtlebot3_world.yaml
+[17.009s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/turtlebot3_world.pgm
+[17.009s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param
+[17.011s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[17.012s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[17.012s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[17.012s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz
+[17.012s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[17.013s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[17.013s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[17.013s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[17.013s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[17.014s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[17.014s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[17.014s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[17.014s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[17.015s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[17.015s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[17.016s] -- Installing: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[17.016s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[17.017s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[17.017s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[17.017s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[17.032s] Invoked command in '/home/user/ros2_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_path_planning:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/map_server:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/turtlebot3_navigation2

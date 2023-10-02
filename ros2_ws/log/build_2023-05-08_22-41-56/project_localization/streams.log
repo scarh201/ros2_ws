@@ -1,0 +1,20 @@
+[15.416s] Invoking command in '/home/user/ros2_ws/src/project_localization': PYTHONPATH=/home/user/ros2_ws/install/project_localization/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_localization build --build-base /home/user/ros2_ws/build/project_localization/build install --prefix /home/user/ros2_ws/install/project_localization --record /home/user/ros2_ws/build/project_localization/install.log --single-version-externally-managed
+[18.910s] running egg_info
+[18.911s] writing ../../build/project_localization/project_localization.egg-info/PKG-INFO
+[18.911s] writing dependency_links to ../../build/project_localization/project_localization.egg-info/dependency_links.txt
+[18.914s] writing entry points to ../../build/project_localization/project_localization.egg-info/entry_points.txt
+[18.915s] writing requirements to ../../build/project_localization/project_localization.egg-info/requires.txt
+[18.915s] writing top-level names to ../../build/project_localization/project_localization.egg-info/top_level.txt
+[19.326s] reading manifest file '../../build/project_localization/project_localization.egg-info/SOURCES.txt'
+[19.327s] writing manifest file '../../build/project_localization/project_localization.egg-info/SOURCES.txt'
+[19.334s] running build
+[19.400s] running build_py
+[19.400s] running install
+[19.401s] running install_lib
+[19.402s] running install_data
+[19.403s] running install_egg_info
+[19.409s] removing '/home/user/ros2_ws/install/project_localization/lib/python3.8/site-packages/project_localization-0.0.0-py3.8.egg-info' (and everything under it)
+[19.410s] Copying ../../build/project_localization/project_localization.egg-info to /home/user/ros2_ws/install/project_localization/lib/python3.8/site-packages/project_localization-0.0.0-py3.8.egg-info
+[19.411s] running install_scripts
+[19.700s] writing list of installed files to '/home/user/ros2_ws/build/project_localization/install.log'
+[19.808s] Invoked command in '/home/user/ros2_ws/src/project_localization' returned '0': PYTHONPATH=/home/user/ros2_ws/install/project_localization/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_localization build --build-base /home/user/ros2_ws/build/project_localization/build install --prefix /home/user/ros2_ws/install/project_localization --record /home/user/ros2_ws/build/project_localization/install.log --single-version-externally-managed

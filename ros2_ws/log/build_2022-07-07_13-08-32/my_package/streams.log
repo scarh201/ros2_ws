@@ -1,0 +1,37 @@
+[8.810s] Invoking command in '/home/user/ros2_ws/src/my_package': PYTHONPATH=/home/user/ros2_ws/install/my_package/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_package build --build-base /home/user/ros2_ws/build/my_package/build install --prefix /home/user/ros2_ws/install/my_package --record /home/user/ros2_ws/build/my_package/install.log --single-version-externally-managed
+[12.597s] running egg_info
+[12.598s] creating ../../build/my_package/my_package.egg-info
+[12.598s] writing ../../build/my_package/my_package.egg-info/PKG-INFO
+[12.598s] writing dependency_links to ../../build/my_package/my_package.egg-info/dependency_links.txt
+[12.598s] writing entry points to ../../build/my_package/my_package.egg-info/entry_points.txt
+[12.599s] writing requirements to ../../build/my_package/my_package.egg-info/requires.txt
+[12.599s] writing top-level names to ../../build/my_package/my_package.egg-info/top_level.txt
+[12.607s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[13.003s] reading manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[13.004s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[13.005s] running build
+[13.006s] running build_py
+[13.006s] creating /home/user/ros2_ws/build/my_package/build
+[13.006s] creating /home/user/ros2_ws/build/my_package/build/lib
+[13.006s] creating /home/user/ros2_ws/build/my_package/build/lib/my_package
+[13.007s] copying my_package/__init__.py -> /home/user/ros2_ws/build/my_package/build/lib/my_package
+[13.007s] running install
+[13.007s] running install_lib
+[13.009s] creating /home/user/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[13.009s] copying /home/user/ros2_ws/build/my_package/build/lib/my_package/__init__.py -> /home/user/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package
+[13.010s] byte-compiling /home/user/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package/__init__.py to __init__.cpython-38.pyc
+[13.010s] running install_data
+[13.011s] creating /home/user/ros2_ws/install/my_package/share/ament_index
+[13.011s] creating /home/user/ros2_ws/install/my_package/share/ament_index/resource_index
+[13.012s] creating /home/user/ros2_ws/install/my_package/share/ament_index/resource_index/packages
+[13.089s] copying resource/my_package -> /home/user/ros2_ws/install/my_package/share/ament_index/resource_index/packages
+[13.089s] copying package.xml -> /home/user/ros2_ws/install/my_package/share/my_package
+[13.089s] creating /home/user/ros2_ws/install/my_package/share/my_package/launch
+[13.090s] copying launch/cartographer.launch.py -> /home/user/ros2_ws/install/my_package/share/my_package/launch
+[13.090s] creating /home/user/ros2_ws/install/my_package/share/my_package/config
+[13.090s] copying config/cartographer.lua -> /home/user/ros2_ws/install/my_package/share/my_package/config
+[13.091s] running install_egg_info
+[13.091s] Copying ../../build/my_package/my_package.egg-info to /home/user/ros2_ws/install/my_package/lib/python3.8/site-packages/my_package-0.0.0-py3.8.egg-info
+[13.091s] running install_scripts
+[13.203s] writing list of installed files to '/home/user/ros2_ws/build/my_package/install.log'
+[13.388s] Invoked command in '/home/user/ros2_ws/src/my_package' returned '0': PYTHONPATH=/home/user/ros2_ws/install/my_package/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_package build --build-base /home/user/ros2_ws/build/my_package/build install --prefix /home/user/ros2_ws/install/my_package --record /home/user/ros2_ws/build/my_package/install.log --single-version-externally-managed

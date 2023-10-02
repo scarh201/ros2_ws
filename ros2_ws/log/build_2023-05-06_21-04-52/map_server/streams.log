@@ -1,0 +1,38 @@
+[12.805s] Invoking command in '/home/user/ros2_ws/src/map_server': PYTHONPATH=/home/user/ros2_ws/install/map_server/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/map_server build --build-base /home/user/ros2_ws/build/map_server/build install --prefix /home/user/ros2_ws/install/map_server --record /home/user/ros2_ws/build/map_server/install.log --single-version-externally-managed
+[17.123s] running egg_info
+[17.125s] creating ../../build/map_server/map_server.egg-info
+[17.125s] writing ../../build/map_server/map_server.egg-info/PKG-INFO
+[17.126s] writing dependency_links to ../../build/map_server/map_server.egg-info/dependency_links.txt
+[17.127s] writing entry points to ../../build/map_server/map_server.egg-info/entry_points.txt
+[17.127s] writing requirements to ../../build/map_server/map_server.egg-info/requires.txt
+[17.128s] writing top-level names to ../../build/map_server/map_server.egg-info/top_level.txt
+[17.209s] writing manifest file '../../build/map_server/map_server.egg-info/SOURCES.txt'
+[17.608s] reading manifest file '../../build/map_server/map_server.egg-info/SOURCES.txt'
+[17.611s] writing manifest file '../../build/map_server/map_server.egg-info/SOURCES.txt'
+[17.611s] running build
+[17.612s] running build_py
+[17.613s] creating /home/user/ros2_ws/build/map_server/build
+[17.613s] creating /home/user/ros2_ws/build/map_server/build/lib
+[17.615s] creating /home/user/ros2_ws/build/map_server/build/lib/map_server
+[17.616s] copying map_server/__init__.py -> /home/user/ros2_ws/build/map_server/build/lib/map_server
+[17.617s] running install
+[17.619s] running install_lib
+[17.629s] creating /home/user/ros2_ws/install/map_server/lib/python3.8/site-packages/map_server
+[17.630s] copying /home/user/ros2_ws/build/map_server/build/lib/map_server/__init__.py -> /home/user/ros2_ws/install/map_server/lib/python3.8/site-packages/map_server
+[17.632s] byte-compiling /home/user/ros2_ws/install/map_server/lib/python3.8/site-packages/map_server/__init__.py to __init__.cpython-38.pyc
+[17.632s] running install_data
+[17.635s] creating /home/user/ros2_ws/install/map_server/share/ament_index
+[17.699s] creating /home/user/ros2_ws/install/map_server/share/ament_index/resource_index
+[17.701s] creating /home/user/ros2_ws/install/map_server/share/ament_index/resource_index/packages
+[17.701s] copying resource/map_server -> /home/user/ros2_ws/install/map_server/share/ament_index/resource_index/packages
+[17.702s] copying package.xml -> /home/user/ros2_ws/install/map_server/share/map_server
+[17.703s] creating /home/user/ros2_ws/install/map_server/share/map_server/launch
+[17.703s] copying launch/nav2_map_server.launch.py -> /home/user/ros2_ws/install/map_server/share/map_server/launch
+[17.704s] creating /home/user/ros2_ws/install/map_server/share/map_server/config
+[17.707s] running install_egg_info
+[17.725s] Copying ../../build/map_server/map_server.egg-info to /home/user/ros2_ws/install/map_server/lib/python3.8/site-packages/map_server-0.0.0-py3.8.egg-info
+[17.731s] running install_scripts
+[18.314s] Installing lifecycle_manager script to /home/user/ros2_ws/install/map_server/lib/map_server
+[18.319s] Installing map_server script to /home/user/ros2_ws/install/map_server/lib/map_server
+[18.319s] writing list of installed files to '/home/user/ros2_ws/build/map_server/install.log'
+[19.309s] Invoked command in '/home/user/ros2_ws/src/map_server' returned '0': PYTHONPATH=/home/user/ros2_ws/install/map_server/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/map_server build --build-base /home/user/ros2_ws/build/map_server/build install --prefix /home/user/ros2_ws/install/map_server --record /home/user/ros2_ws/build/map_server/install.log --single-version-externally-managed

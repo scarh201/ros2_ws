@@ -1,0 +1,22 @@
+-- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/user/ros2_ws/build/turtlebot3
+-- Install configuration: ""
+-- Up-to-date: /home/user/ros2_ws/install/turtlebot3/share/ament_index/resource_index/package_run_dependencies/turtlebot3
+-- Installing: /home/user/ros2_ws/install/turtlebot3/share/ament_index/resource_index/parent_prefix_path/turtlebot3
+-- Installing: /home/user/ros2_ws/install/turtlebot3/share/turtlebot3/environment/ament_prefix_path.sh
+-- Installing: /home/user/ros2_ws/install/turtlebot3/share/turtlebot3/environment/ament_prefix_path.dsv
+-- Installing: /home/user/ros2_ws/install/turtlebot3/share/turtlebot3/environment/path.sh
+-- Installing: /home/user/ros2_ws/install/turtlebot3/share/turtlebot3/environment/path.dsv
+-- Installing: /home/user/ros2_ws/install/turtlebot3/share/turtlebot3/local_setup.bash
+-- Installing: /home/user/ros2_ws/install/turtlebot3/share/turtlebot3/local_setup.sh
+-- Installing: /home/user/ros2_ws/install/turtlebot3/share/turtlebot3/local_setup.zsh
+-- Installing: /home/user/ros2_ws/install/turtlebot3/share/turtlebot3/local_setup.dsv
+-- Installing: /home/user/ros2_ws/install/turtlebot3/share/turtlebot3/package.dsv
+-- Up-to-date: /home/user/ros2_ws/install/turtlebot3/share/ament_index/resource_index/packages/turtlebot3
+-- Up-to-date: /home/user/ros2_ws/install/turtlebot3/share/turtlebot3/cmake/turtlebot3Config.cmake
+-- Up-to-date: /home/user/ros2_ws/install/turtlebot3/share/turtlebot3/cmake/turtlebot3Config-version.cmake
+-- Up-to-date: /home/user/ros2_ws/install/turtlebot3/share/turtlebot3/package.xml

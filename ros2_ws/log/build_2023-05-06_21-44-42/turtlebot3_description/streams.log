@@ -1,0 +1,41 @@
+[0.718s] Invoking command in '/home/user/ros2_ws/build/turtlebot3_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/my_package:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/turtlebot3_description -- -j8 -l8
+[10.707s] Invoked command in '/home/user/ros2_ws/build/turtlebot3_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/my_package:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/turtlebot3_description -- -j8 -l8
+[11.713s] Invoking command in '/home/user/ros2_ws/build/turtlebot3_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/my_package:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/turtlebot3_description
+[12.190s] -- Install configuration: ""
+[12.200s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes
+[12.202s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors
+[12.202s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/r200.jpg
+[12.203s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/r200.dae
+[12.204s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/astra.jpg
+[12.205s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/astra.dae
+[12.207s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/sensors/lds.stl
+[12.208s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/wheels
+[12.208s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/wheels/right_tire.stl
+[12.208s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/wheels/left_tire.stl
+[12.208s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/bases
+[12.208s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/bases/waffle_base.stl
+[12.209s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/bases/burger_base.stl
+[12.211s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/bases/waffle_pi_base.stl
+[12.212s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/rviz
+[12.212s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/rviz/model.rviz
+[12.213s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/urdf
+[12.213s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_waffle.urdf
+[12.213s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_waffle_pi.urdf
+[12.284s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/common_properties.urdf
+[12.285s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_burger.urdf
+[12.285s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/ament_index/resource_index/package_run_dependencies/turtlebot3_description
+[12.288s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/ament_index/resource_index/parent_prefix_path/turtlebot3_description
+[12.288s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/environment/ament_prefix_path.sh
+[12.289s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/environment/ament_prefix_path.dsv
+[12.291s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/environment/path.sh
+[12.292s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/environment/path.dsv
+[12.293s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/local_setup.bash
+[12.294s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/local_setup.sh
+[12.296s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/local_setup.zsh
+[12.297s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/local_setup.dsv
+[12.383s] -- Installing: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/package.dsv
+[12.384s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/ament_index/resource_index/packages/turtlebot3_description
+[12.384s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/cmake/turtlebot3_descriptionConfig.cmake
+[12.385s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/cmake/turtlebot3_descriptionConfig-version.cmake
+[12.385s] -- Up-to-date: /home/user/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/package.xml
+[12.621s] Invoked command in '/home/user/ros2_ws/build/turtlebot3_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/my_package:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/turtlebot3_description

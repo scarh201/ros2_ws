@@ -1,0 +1,2 @@
+Invoking command in '/home/user/ros2_ws/build/turtlebot3_cartographer': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/turtlebot3_cartographer
+Invoked command in '/home/user/ros2_ws/build/turtlebot3_cartographer' returned '1': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/turtlebot3_cartographer

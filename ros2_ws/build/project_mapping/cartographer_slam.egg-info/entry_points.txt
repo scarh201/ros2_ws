@@ -1,0 +1,4 @@
+[console_scripts]
+cartographer_node = cartographer_slam.cartographer_node:main
+occupancy_grid_node = cartographer_slam.occupancy_grid_node:main
+

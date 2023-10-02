@@ -1,0 +1,35 @@
+[0.066s] Invoking command in '/home/user/ros2_ws/src/build/turtlebot3_navigation2': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/src/install/turtlebot3_navigation2
+[0.197s] -- The C compiler identification is GNU 9.3.0
+[0.325s] -- The CXX compiler identification is GNU 9.3.0
+[0.336s] -- Check for working C compiler: /usr/bin/cc
+[0.464s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.465s] -- Detecting C compiler ABI info
+[0.625s] -- Detecting C compiler ABI info - done
+[0.651s] -- Detecting C compile features
+[0.653s] -- Detecting C compile features - done
+[0.657s] -- Check for working CXX compiler: /usr/bin/c++
+[0.833s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.835s] -- Detecting CXX compiler ABI info
+[1.003s] -- Detecting CXX compiler ABI info - done
+[1.029s] -- Detecting CXX compile features
+[1.030s] -- Detecting CXX compile features - done
+[1.083s] CMake Error at CMakeLists.txt:10 (find_package):
+[1.083s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[1.088s]   has asked CMake to find a package configuration file provided by
+[1.089s]   "ament_cmake", but CMake did not find one.
+[1.091s] 
+[1.091s]   Could not find a package configuration file provided by "ament_cmake" with
+[1.092s]   any of the following names:
+[1.092s] 
+[1.093s]     ament_cmakeConfig.cmake
+[1.094s]     ament_cmake-config.cmake
+[1.094s] 
+[1.094s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[1.094s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[1.096s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[1.097s]   has been installed.
+[1.097s] 
+[1.097s] 
+[1.098s] -- Configuring incomplete, errors occurred!
+[1.098s] See also "/home/user/ros2_ws/src/build/turtlebot3_navigation2/CMakeFiles/CMakeOutput.log".
+[1.098s] Invoked command in '/home/user/ros2_ws/src/build/turtlebot3_navigation2' returned '1': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/src/install/turtlebot3_navigation2

@@ -1,0 +1,85 @@
+[0.000000] (-) TimerEvent: {}
+[0.026797] (-) JobUnselected: {'identifier': 'map_server'}
+[0.026924] (-) JobUnselected: {'identifier': 'project_localization'}
+[0.033132] (-) JobUnselected: {'identifier': 'project_mapping'}
+[0.033256] (-) JobUnselected: {'identifier': 'turtlebot3'}
+[0.033310] (-) JobUnselected: {'identifier': 'turtlebot3_bringup'}
+[0.033395] (-) JobUnselected: {'identifier': 'turtlebot3_description'}
+[0.033448] (-) JobUnselected: {'identifier': 'turtlebot3_example'}
+[0.033494] (-) JobUnselected: {'identifier': 'turtlebot3_msgs'}
+[0.033540] (-) JobUnselected: {'identifier': 'turtlebot3_navigation2'}
+[0.033609] (-) JobUnselected: {'identifier': 'turtlebot3_teleop'}
+[0.033661] (project_path_planning) JobQueued: {'identifier': 'project_path_planning', 'dependencies': OrderedDict()}
+[0.048036] (project_path_planning) JobStarted: {'identifier': 'project_path_planning'}
+[0.099888] (-) TimerEvent: {}
+[0.200494] (-) TimerEvent: {}
+[0.301420] (-) TimerEvent: {}
+[0.403288] (-) TimerEvent: {}
+[0.504385] (-) TimerEvent: {}
+[0.609360] (-) TimerEvent: {}
+[0.710259] (-) TimerEvent: {}
+[0.810719] (-) TimerEvent: {}
+[0.911097] (-) TimerEvent: {}
+[1.013886] (-) TimerEvent: {}
+[1.116169] (-) TimerEvent: {}
+[1.216631] (-) TimerEvent: {}
+[1.318403] (-) TimerEvent: {}
+[1.419666] (-) TimerEvent: {}
+[1.520358] (-) TimerEvent: {}
+[1.622358] (-) TimerEvent: {}
+[1.722897] (-) TimerEvent: {}
+[1.804022] (project_path_planning) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/project_path_planning', 'build', '--build-base', '/home/user/ros2_ws/build/project_path_planning/build', 'install', '--prefix', '/home/user/ros2_ws/install/project_path_planning', '--record', '/home/user/ros2_ws/build/project_path_planning/install.log', '--single-version-externally-managed'], 'cwd': '/home/user/ros2_ws/src/project_path_planning', 'env': {'ROS_VERSION': '2', 'NVIDIA_VISIBLE_DEVICES': 'all', 'GAZEBO_MASTER_URI': 'http://4_xterm:11345', 'ROS_PYTHON_VERSION': '3', 'HOSTNAME': '4_xterm', 'NVIDIA_REQUIRE_CUDA': 'cuda>=11.1 brand=tesla,driver>=418,driver<419 brand=tesla,driver>=440,driver<441 brand=tesla,driver>=450,driver<451', 'NCCL_VERSION': '2.7.8', 'PWD': '/home/user/ros2_ws/build/project_path_planning', 'PORT': '4000', 'NVIDIA_DRIVER_CAPABILITIES': 'all', 'ROS_IP': '', 'HOME': '/home/user', 'GAZEBO_PLUGIN_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'GAZEBO_MODEL_DATABASE_URI': 'http://models.gazebosim.org', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'CUDA_VERSION': '11.1.1', 'AMENT_PREFIX_PATH': '/home/simulations/ros2_sims_ws/install/ros1_bridge:/home/user/ros2_ws/install/turtlebot3:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_navigation2:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/turtlebot3_msgs:/home/user/ros2_ws/install/turtlebot3_bringup:/home/user/ros2_ws/install/turtlebot3_description:/home/user/ros2_ws/install/project_path_planning:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/map_server:/opt/ros/foxy', 'CMAKE_PREFIX_PATH': '/home/simulations/ros2_sims_ws/install/ros1_bridge:/home/user/ros2_ws/install/turtlebot3:/home/user/ros2_ws/install/turtlebot3_navigation2:/home/user/ros2_ws/install/turtlebot3_msgs:/home/user/ros2_ws/install/turtlebot3_bringup:/home/user/ros2_ws/install/turtlebot3_description', 'GAZEBO_RESOURCE_PATH': '/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo', 'COLCON_PREFIX_PATH': '/home/simulations/ros2_sims_ws/install:/home/user/ros2_ws/install', 'GAZEBO_MASTER_PORT': '11345', 'NVM_DIR': '/usr/local/share/shell/.nvm', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PYTHONPATH': '/home/user/ros2_ws/install/project_path_planning/lib/python3.8/site-packages:/home/simulations/ros2_sims_ws/install/ros1_bridge/lib/python3.8/site-packages:/home/user/ros2_ws/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/user/ros2_ws/install/turtlebot3_example/lib/python3.8/site-packages:/home/user/ros2_ws/install/turtlebot3_msgs/lib/python3.8/site-packages:/home/user/ros2_ws/install/project_path_planning/lib/python3.8/site-packages:/home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages:/home/user/ros2_ws/install/project_localization/lib/python3.8/site-packages:/home/user/ros2_ws/install/my_package/lib/python3.8/site-packages:/home/user/ros2_ws/install/map_server/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1', 'TERM': 'xterm-color', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'SNAPCRAFT_BUILD_ENVIRONMENT': 'host', 'GAZEBO_MASTER_HOSTNAME': '4_xterm', 'LIBRARY_PATH': '/usr/local/cuda/lib64/stubs', 'DISPLAY': ':1', 'SHLVL': '2', 'NVM_CD_FLAGS': '', 'ROS_MASTER_URI': 'http://4_xterm:11311', 'ROS_HOSTNAME': '4_xterm', 'LD_LIBRARY_PATH': '/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib:/home/simulations/ros2_sims_ws/install/ros1_bridge/lib:/home/user/ros2_ws/install/turtlebot3_msgs/lib:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib:/usr/local/nvidia/lib:/usr/local/nvidia/lib64:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins', 'ROS_LOCALHOST_ONLY': '0', 'SLOT_SHELL_START_ID': '667920', 'SLOT_PREFIX': 'd52040b8-5b25-47a1-beb4-5462736ad40b', 'LC_ALL': 'C', 'SOURCE_ROS1_WS': '', 'GAZEBO_MODEL_PATH': '/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-9/models:/usr/share/gazebo/models_robox', 'SLOT_JENKINS_PORT': '25922', 'SLOT_SYSTEMD': 'False', 'PATH': '/opt/ros/foxy/bin:/usr/local/share/shell/.nvm/versions/node/v6.11.2/bin:/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'SELECTED_ROS_DISTRO': 'foxy', 'NVM_BIN': '/usr/local/share/shell/.nvm/versions/node/v6.11.2/bin', 'NODE_VERSION': 'v6.11.2', 'DEBIAN_FRONTEND': 'noninteractive', 'ROS_DISTRO': 'foxy', 'OGRE_RESOURCE_PATH': '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0', 'OLDPWD': '/home/user', 'SOURCE_ROS2_WS': 'True', 'SLOT_ROSBRIDGE_PORT': '20004', '_': '/usr/bin/env'}, 'shell': False}
+[1.824466] (-) TimerEvent: {}
+[1.925852] (-) TimerEvent: {}
+[2.031432] (-) TimerEvent: {}
+[2.133892] (-) TimerEvent: {}
+[2.234475] (-) TimerEvent: {}
+[2.337727] (-) TimerEvent: {}
+[2.438122] (-) TimerEvent: {}
+[2.539002] (-) TimerEvent: {}
+[2.639825] (-) TimerEvent: {}
+[2.742359] (-) TimerEvent: {}
+[2.883632] (-) TimerEvent: {}
+[2.988075] (-) TimerEvent: {}
+[3.089581] (-) TimerEvent: {}
+[3.190840] (-) TimerEvent: {}
+[3.291273] (-) TimerEvent: {}
+[3.392115] (-) TimerEvent: {}
+[3.493179] (-) TimerEvent: {}
+[3.593911] (-) TimerEvent: {}
+[3.699920] (-) TimerEvent: {}
+[3.802664] (-) TimerEvent: {}
+[3.904456] (-) TimerEvent: {}
+[4.007802] (-) TimerEvent: {}
+[4.109096] (-) TimerEvent: {}
+[4.218893] (-) TimerEvent: {}
+[4.319824] (-) TimerEvent: {}
+[4.407766] (project_path_planning) StdoutLine: {'line': b'running egg_info\n'}
+[4.408178] (project_path_planning) StdoutLine: {'line': b'writing ../../build/project_path_planning/project_path_planning.egg-info/PKG-INFO\n'}
+[4.408357] (project_path_planning) StdoutLine: {'line': b'writing dependency_links to ../../build/project_path_planning/project_path_planning.egg-info/dependency_links.txt\n'}
+[4.408507] (project_path_planning) StdoutLine: {'line': b'writing entry points to ../../build/project_path_planning/project_path_planning.egg-info/entry_points.txt\n'}
+[4.408644] (project_path_planning) StdoutLine: {'line': b'writing requirements to ../../build/project_path_planning/project_path_planning.egg-info/requires.txt\n'}
+[4.410763] (project_path_planning) StdoutLine: {'line': b'writing top-level names to ../../build/project_path_planning/project_path_planning.egg-info/top_level.txt\n'}
+[4.419924] (-) TimerEvent: {}
+[4.520473] (-) TimerEvent: {}
+[4.539484] (project_path_planning) StdoutLine: {'line': b"reading manifest file '../../build/project_path_planning/project_path_planning.egg-info/SOURCES.txt'\n"}
+[4.584032] (project_path_planning) StdoutLine: {'line': b"writing manifest file '../../build/project_path_planning/project_path_planning.egg-info/SOURCES.txt'\n"}
+[4.584292] (project_path_planning) StdoutLine: {'line': b'running build\n'}
+[4.587178] (project_path_planning) StdoutLine: {'line': b'running build_py\n'}
+[4.587371] (project_path_planning) StdoutLine: {'line': b'running install\n'}
+[4.587598] (project_path_planning) StdoutLine: {'line': b'running install_lib\n'}
+[4.598480] (project_path_planning) StdoutLine: {'line': b'running install_data\n'}
+[4.602311] (project_path_planning) StdoutLine: {'line': b'copying config/controller.yaml -> /home/user/ros2_ws/install/project_path_planning/share/project_path_planning/config\n'}
+[4.607078] (project_path_planning) StdoutLine: {'line': b'running install_egg_info\n'}
+[4.610468] (project_path_planning) StdoutLine: {'line': b"removing '/home/user/ros2_ws/install/project_path_planning/lib/python3.8/site-packages/project_path_planning-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[4.617692] (project_path_planning) StdoutLine: {'line': b'Copying ../../build/project_path_planning/project_path_planning.egg-info to /home/user/ros2_ws/install/project_path_planning/lib/python3.8/site-packages/project_path_planning-0.0.0-py3.8.egg-info\n'}
+[4.620588] (-) TimerEvent: {}
+[4.629667] (project_path_planning) StdoutLine: {'line': b'running install_scripts\n'}
+[4.721724] (-) TimerEvent: {}
+[4.745398] (project_path_planning) StdoutLine: {'line': b'Installing nav_to_pose_action_client script to /home/user/ros2_ws/install/project_path_planning/lib/project_path_planning\n'}
+[4.746331] (project_path_planning) StdoutLine: {'line': b"writing list of installed files to '/home/user/ros2_ws/build/project_path_planning/install.log'\n"}
+[4.821917] (-) TimerEvent: {}
+[4.843466] (project_path_planning) CommandEnded: {'returncode': 0}
+[4.922658] (-) TimerEvent: {}
+[4.941711] (project_path_planning) JobEnded: {'identifier': 'project_path_planning', 'rc': 0}
+[4.943452] (-) EventReactorShutdown: {}

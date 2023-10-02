@@ -1,0 +1,22 @@
+[13.121s] Invoking command in '/home/user/ros2_ws/src/project_mapping': PYTHONPATH=/home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_mapping build --build-base /home/user/ros2_ws/build/project_mapping/build install --prefix /home/user/ros2_ws/install/project_mapping --record /home/user/ros2_ws/build/project_mapping/install.log --single-version-externally-managed
+[17.414s] running egg_info
+[17.416s] writing ../../build/project_mapping/project_mapping.egg-info/PKG-INFO
+[17.416s] writing dependency_links to ../../build/project_mapping/project_mapping.egg-info/dependency_links.txt
+[17.416s] writing entry points to ../../build/project_mapping/project_mapping.egg-info/entry_points.txt
+[17.416s] writing requirements to ../../build/project_mapping/project_mapping.egg-info/requires.txt
+[17.417s] writing top-level names to ../../build/project_mapping/project_mapping.egg-info/top_level.txt
+[17.680s] reading manifest file '../../build/project_mapping/project_mapping.egg-info/SOURCES.txt'
+[17.686s] writing manifest file '../../build/project_mapping/project_mapping.egg-info/SOURCES.txt'
+[17.686s] running build
+[17.688s] running build_py
+[17.688s] running install
+[17.700s] running install_lib
+[17.718s] running install_data
+[17.775s] running install_egg_info
+[17.802s] removing '/home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages/project_mapping-0.0.0-py3.8.egg-info' (and everything under it)
+[17.807s] Copying ../../build/project_mapping/project_mapping.egg-info to /home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages/project_mapping-0.0.0-py3.8.egg-info
+[17.889s] running install_scripts
+[18.180s] Installing cartographer_node script to /home/user/ros2_ws/install/project_mapping/lib/project_mapping
+[18.185s] Installing occupancy_grid_node script to /home/user/ros2_ws/install/project_mapping/lib/project_mapping
+[18.187s] writing list of installed files to '/home/user/ros2_ws/build/project_mapping/install.log'
+[18.628s] Invoked command in '/home/user/ros2_ws/src/project_mapping' returned '0': PYTHONPATH=/home/user/ros2_ws/install/project_mapping/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_mapping build --build-base /home/user/ros2_ws/build/project_mapping/build install --prefix /home/user/ros2_ws/install/project_mapping --record /home/user/ros2_ws/build/project_mapping/install.log --single-version-externally-managed

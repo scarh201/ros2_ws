@@ -1,0 +1,46 @@
+[0.044s] Invoking command in '/home/user/ros2_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_path_planning:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/map_server:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/custom_interfaces
+[0.693s] -- The C compiler identification is GNU 9.3.0
+[1.128s] -- The CXX compiler identification is GNU 9.3.0
+[1.155s] -- Check for working C compiler: /usr/bin/cc
+[1.316s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.321s] -- Detecting C compiler ABI info
+[1.465s] -- Detecting C compiler ABI info - done
+[1.508s] -- Detecting C compile features
+[1.516s] -- Detecting C compile features - done
+[1.523s] -- Check for working CXX compiler: /usr/bin/c++
+[1.692s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.695s] -- Detecting CXX compiler ABI info
+[1.875s] -- Detecting CXX compiler ABI info - done
+[1.893s] -- Detecting CXX compile features
+[1.894s] -- Detecting CXX compile features - done
+[1.916s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.028s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.028s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.729s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[2.977s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.986s] -- Added test 'lint_cmake' to check CMake code style
+[2.991s] -- Added test 'xmllint' to check XML markup files
+[2.997s] -- Configuring done
+[3.001s] -- Generating done
+[3.005s] -- Build files have been written to: /home/user/ros2_ws/build/custom_interfaces
+[3.015s] Invoked command in '/home/user/ros2_ws/build/custom_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_path_planning:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/map_server:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/custom_interfaces
+[3.016s] Invoking command in '/home/user/ros2_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_path_planning:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/map_server:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/custom_interfaces -- -j8 -l8
+[3.096s] Invoked command in '/home/user/ros2_ws/build/custom_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_path_planning:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/map_server:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/custom_interfaces -- -j8 -l8
+[3.211s] Invoking command in '/home/user/ros2_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_path_planning:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/map_server:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/custom_interfaces
+[3.227s] -- Install configuration: ""
+[3.227s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/ament_index/resource_index/package_run_dependencies/custom_interfaces
+[3.228s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/ament_index/resource_index/parent_prefix_path/custom_interfaces
+[3.228s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/custom_interfaces/environment/ament_prefix_path.sh
+[3.229s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/custom_interfaces/environment/ament_prefix_path.dsv
+[3.230s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/custom_interfaces/environment/path.sh
+[3.230s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/custom_interfaces/environment/path.dsv
+[3.231s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/custom_interfaces/local_setup.bash
+[3.232s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/custom_interfaces/local_setup.sh
+[3.232s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/custom_interfaces/local_setup.zsh
+[3.232s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/custom_interfaces/local_setup.dsv
+[3.233s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/custom_interfaces/package.dsv
+[3.233s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/ament_index/resource_index/packages/custom_interfaces
+[3.233s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfacesConfig.cmake
+[3.234s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfacesConfig-version.cmake
+[3.234s] -- Installing: /home/user/ros2_ws/install/custom_interfaces/share/custom_interfaces/package.xml
+[3.244s] Invoked command in '/home/user/ros2_ws/build/custom_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/turtlebot3_teleop:/home/user/ros2_ws/install/turtlebot3_example:/home/user/ros2_ws/install/project_path_planning:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/map_server:/opt/ros/foxy _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/custom_interfaces

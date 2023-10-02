@@ -1,0 +1,32 @@
+spots:
+  ros__parameters:
+    SpotName: spot 1
+    Position: 
+        x: 0.22044921
+        y: -0.0421269
+        z: 0
+    Orientation:
+        x: 0
+        y: 0
+        z: 0.2031448
+        w: 0.9791486
+    SpotName: spot 2
+    Position: 
+        x: -0.5773027
+        y: -0.0695043
+        z: 0
+    Orientation:
+        x: 0
+        y: 0
+        z: -0.4725648
+        w: 0.88129587
+    SpotName: spot 3        
+    Position: 
+        x: -0.3371315
+        y: -0.7859990
+        z: 0
+    Orientation:
+        x: 0
+        y: 0
+        z: -0.0521344
+        w: 0.99864007

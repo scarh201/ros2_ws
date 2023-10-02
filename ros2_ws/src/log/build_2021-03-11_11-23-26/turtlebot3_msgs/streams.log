@@ -1,0 +1,35 @@
+[0.067s] Invoking command in '/home/user/ros2_ws/src/build/turtlebot3_msgs': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/src/install/turtlebot3_msgs
+[0.174s] -- The C compiler identification is GNU 9.3.0
+[0.318s] -- The CXX compiler identification is GNU 9.3.0
+[0.329s] -- Check for working C compiler: /usr/bin/cc
+[0.482s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.483s] -- Detecting C compiler ABI info
+[0.615s] -- Detecting C compiler ABI info - done
+[0.643s] -- Detecting C compile features
+[0.643s] -- Detecting C compile features - done
+[0.650s] -- Check for working CXX compiler: /usr/bin/c++
+[0.831s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.831s] -- Detecting CXX compiler ABI info
+[1.013s] -- Detecting CXX compiler ABI info - done
+[1.042s] -- Detecting CXX compile features
+[1.043s] -- Detecting CXX compile features - done
+[1.080s] CMake Error at CMakeLists.txt:18 (find_package):
+[1.080s]   By not providing "Findaction_msgs.cmake" in CMAKE_MODULE_PATH this project
+[1.080s]   has asked CMake to find a package configuration file provided by
+[1.081s]   "action_msgs", but CMake did not find one.
+[1.081s] 
+[1.081s]   Could not find a package configuration file provided by "action_msgs" with
+[1.081s]   any of the following names:
+[1.081s] 
+[1.082s]     action_msgsConfig.cmake
+[1.082s]     action_msgs-config.cmake
+[1.082s] 
+[1.082s]   Add the installation prefix of "action_msgs" to CMAKE_PREFIX_PATH or set
+[1.082s]   "action_msgs_DIR" to a directory containing one of the above files.  If
+[1.082s]   "action_msgs" provides a separate development package or SDK, be sure it
+[1.083s]   has been installed.
+[1.083s] 
+[1.084s] 
+[1.088s] -- Configuring incomplete, errors occurred!
+[1.090s] See also "/home/user/ros2_ws/src/build/turtlebot3_msgs/CMakeFiles/CMakeOutput.log".
+[1.091s] Invoked command in '/home/user/ros2_ws/src/build/turtlebot3_msgs' returned '1': _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/src/install/turtlebot3_msgs

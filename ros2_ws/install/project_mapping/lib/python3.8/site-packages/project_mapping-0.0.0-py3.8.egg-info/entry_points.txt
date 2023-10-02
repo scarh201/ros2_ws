@@ -1,0 +1,4 @@
+[console_scripts]
+cartographer_node = project_mapping.cartographer_node:main
+occupancy_grid_node = project_mapping.occupancy_grid_node:main
+
